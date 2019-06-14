@@ -1,7 +1,15 @@
-Alien Invasion - tow
+Alien Invasion
 ==============
 This is the sample game that is built in the first three Chapter of
 mobile HTML5 Game Development.
+
+---
+
+## this game on my page
+
+https://hassanmastinoz.github.io/release-based-workflow/
+
+---
 
 It is released under both the GPL and MIT license to do with what you will.
 
